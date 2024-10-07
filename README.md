@@ -1,7 +1,7 @@
 # The official fork of Minecraft Server by Harmony
 
 ## Release
-Atualmente o fork feito pelos desenvolvedores da Rede Harmony não está aberta ao público, portanto, um dia possivelmente estará.
+Atualmente o fork feito pelos desenvolvedores da Rede Harmony não está aberta ao público, entretanto, um dia possivelmente estará.
 
 ## O que há de novo?
 Nesta seção, você encontrará uma lista abrangente (mas não completa) de todas as adições, remoções ou alterações feitas neste fork:
